@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Pagos Electronicos">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1207366908 - Field 3572823212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CodigoRechazoBanco - Field Codigo Banco - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1207366908 - Field 877448491 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CodigoRechazoBanco - Field Codigo Razon - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1207366908 - Field 3831305330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CodigoRechazoBanco - Field Codigo retorno - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1207366908 - Field 1475260075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CodigoRechazoBanco - Field Descripcion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97223973 - Field 3564909604 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cod razon</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Respuestas Bancos - Field Cod razon - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97223973 - Field 3061763033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cod retorno</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Respuestas Bancos - Field Cod retorno - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97223973 - Field 1646487917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cod retorno rem BPD</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Respuestas Bancos - Field Cod retorno rem BPD - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97223973 - Field 3274717824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID Banco</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Respuestas Bancos - Field ID Banco - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97223973 - Field 4013003104 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No identificacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Respuestas Bancos - Field No identificacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97223973 - Field 3376753958 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numero autorizacion</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Respuestas Bancos - Field Numero autorizacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97223973 - Field 3233571925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Texto1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Respuestas Bancos - Field Texto1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 97223973 - Field 2595875308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Texto2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Respuestas Bancos - Field Texto2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3606100741 - NamedType 481797073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must specify the Bank as balance account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DiarioRecepcionEfectivo - NamedType Err002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3606100741 - NamedType 1119493690" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The date in the journal should be the same or later than today, please check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DiarioRecepcionEfectivo - NamedType Err003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3606100741 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generating file #1########## @2@@@@@@@@@@@@@</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DiarioRecepcionEfectivo - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3606100741 - Method 1778203098 - NamedType 4139067752" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bank account must be the same in all the lines, please correct it</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DiarioRecepcionEfectivo - Method EnviaMailPagos - NamedType Err001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3606100741 - Method 1778203098 - NamedType 481797073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User %1 is not defined in the Database</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DiarioRecepcionEfectivo - Method EnviaMailPagos - NamedType Err002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3606100741 - Method 4154004759 - NamedType 4139067752" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bank account must be the same in all the lines, please correct it</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DiarioRecepcionEfectivo - Method FormatoBancoDiario - NamedType Err001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3606100741 - Method 1027317926 - NamedType 4139067752" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bank account must be the same in all the lines, please correct it</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DiarioRecepcionEfectivo - Method FormatoPagoClientes - NamedType Err001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2694654022 - NamedType 481797073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must specify the Bank as balance account</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Genera Formatos  E. Nomina RD - NamedType Err002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2694654022 - NamedType 1119493690" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The date in the journal should be the same or later than today, please check</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Genera Formatos  E. Nomina RD - NamedType Err003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2694654022 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generating file #1########## @2@@@@@@@@@@@@@</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Genera Formatos  E. Nomina RD - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2694654022 - Method 1778203098 - NamedType 4139067752" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bank account must be the same in all the lines, please correct it</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Genera Formatos  E. Nomina RD - Method EnviaMailPagos - NamedType Err001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2694654022 - Method 1778203098 - NamedType 481797073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User %1 is not defined in the Database</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Genera Formatos  E. Nomina RD - Method EnviaMailPagos - NamedType Err002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2694654022 - Method 4154004759 - NamedType 4139067752" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bank account must be the same in all the lines, please correct it</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Genera Formatos  E. Nomina RD - Method FormatoBancoDiario - NamedType Err001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2694654022 - Method 738703475 - NamedType 4139067752" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bank account must be the same in all the lines, please correct it</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Genera Formatos  E. Nomina RD - Method FormatoPagoProveedores - NamedType Err001</note>
+        </trans-unit>
+        <trans-unit id="Page 1207366908 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Codigo Rechazo Banco</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CodigoRechazoBanco - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4193710025 - Action 108611887 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Void the exported electronic payment file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSNCashReceiptJournalPageExt - Action AnularTransmitido - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4193710025 - Action 108611887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Void EFT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSNCashReceiptJournalPageExt - Action AnularTransmitido - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4193710025 - Action 1742992190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Generate EFT file</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSNCashReceiptJournalPageExt - Action Generate EFT File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4193710025 - Control 2573171503 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Specifies the value of the Beneficiary field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSNCashReceiptJournalPageExt - Control DSNBeneficiario - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4193710025 - Control 1161793719 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1638686336">
+          <source>Specifies the bank account that the amount will be transferred to after it has been exported from the payment journal.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSNCashReceiptJournalPageExt - Control DSNRecipient Bank Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1598736601 - Action 108611887 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Void the exported electronic payment file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExportEFTFilePageExtension - Action AnularTransmitido - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1598736601 - Action 108611887 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Void EFT</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExportEFTFilePageExtension - Action AnularTransmitido - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1598736601 - Action 1742992190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Generate EFT File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExportEFTFilePageExtension - Action Generate EFT File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1598736601 - Action 1742992190 - Method 1377591017 - NamedType 3316853961" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1598736601">
+          <source>Standard, Instant Payment, Cancel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExportEFTFilePageExtension - Action Generate EFT File - Method OnAction - NamedType bankpaymentoption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1598736601 - Action 140607545 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Import bank conciliation electronic payment file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExportEFTFilePageExtension - Action ImportarArchivoBanco - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1598736601 - Action 140607545 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3196174509">
+          <source>Import Bank File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ExportEFTFilePageExtension - Action ImportarArchivoBanco - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
